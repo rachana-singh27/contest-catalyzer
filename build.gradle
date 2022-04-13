@@ -6,7 +6,6 @@ plugins {
 ext {
 	buildId = System.currentTimeMillis()
 	codinGameMainClass = "com.crio.codingame.App"
-	jukeBoxMainClass = "com.crio.jukebox.App"
 }
 
 // Replace the mainClass variable with jukeBoxMainClass to only run the JukeBox Application.
